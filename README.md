@@ -7,6 +7,6 @@
 * [排序数组中的重复项](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/RemoveDuplicatesArray.md) 
 
 ## 字符串(String)
-
+* [反转字符串](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/ReverseString.md) 
 
 ## 数据结构(Data Structure)
