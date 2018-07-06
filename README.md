@@ -3,8 +3,8 @@
 
 ## 数组(Array)   
 
-* [两数之和](https://github.com/sqh17/LeetCode-/questions-answers/Array/TwoSum) 
-* [排序数组中的重复项](https://github.com/sqh17/LeetCode-/questions-answers/Array/RemoveDuplicatesArray) 
+* [两数之和](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/TwoSum.md) 
+* [排序数组中的重复项](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/RemoveDuplicatesArray.md) 
 
 ## 字符串(String)
 
