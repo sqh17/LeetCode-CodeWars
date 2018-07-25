@@ -11,3 +11,5 @@
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
 * [简单回文数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/PalindromeNumber.md)
 ## 数据结构(Data Structure)
+## 数学(math)
+* [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
