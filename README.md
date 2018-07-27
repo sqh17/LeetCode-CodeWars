@@ -6,6 +6,7 @@
 * [两数之和](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/TwoSum.md) 
 * [排序数组中的重复项](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/RemoveDuplicatesArray.md) 
 * [存在重复元素](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/ContainsDuplicate.md)
+* [翻转数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/RotateArray.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
