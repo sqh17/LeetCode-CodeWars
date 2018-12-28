@@ -13,6 +13,7 @@
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
 * [简单回文数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/PalindromeNumber.md)
 * [去掉字符串中的元音字母](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/DisemvowelTrolls.md)
+* [字符串中的第一个唯一字符](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/firstUniqChar.md)
 ## 数据结构(Data Structure)
 ## 数学(math)
 * [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
