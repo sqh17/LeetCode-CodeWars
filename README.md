@@ -1,5 +1,5 @@
-# LeetCode
-根据LeetCode官网上算法题用JavaScript方式写出自己的答案总结
+# LeetCode／CodeWars
+根据LeetCode官网上和CodeWars算法题用JavaScript方式写出自己的答案总结
 
 ## 数组(Array)   
 
