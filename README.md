@@ -10,6 +10,7 @@
 * [只出现一次的数字](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/singleNumber.md)
 * [三数之和](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/threeSum.md)
 * [移动零](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/moveZeroes.md)
+* [求交集](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/intersect.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
@@ -21,3 +22,4 @@
 ## 数据结构(Data Structure)
 ## 数学(math)
 * [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
+* [计数质数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/countPrimes.md) 
