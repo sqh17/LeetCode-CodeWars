@@ -11,6 +11,7 @@
 * [三数之和](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/threeSum.md)
 * [移动零](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/moveZeroes.md)
 * [求交集](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/intersect.md)
+* [Find the unique number](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/findUnqiueNumber.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
