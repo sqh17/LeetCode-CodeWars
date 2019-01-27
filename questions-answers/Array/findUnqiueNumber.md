@@ -37,3 +37,11 @@ function findUniq(arr) {
   return arr.find(n=>arr.indexOf(n) == arr.lastIndexOf(n))
 }
 ```
+### 答案4
+```javascript
+function findUniq(arr) {
+  let [a,b,c] = arr.slice(0,3);
+  if( a != b && a!=c ) return a;
+  for( let x of arr ) if( x!=a ) return x
+}
+```
