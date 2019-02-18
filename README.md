@@ -24,6 +24,7 @@
 * [shortestWords](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ShortestWord.md)
 * [humanReadable](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/humanReadable.md)
 * [firstNonRepeatingLetter](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/firstNonRepeatingLetter.md)
+* [最长公共前缀](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/longestCommonPrefix.md)
 ## 数据结构(Data Structure)
 ## 数学(math)
 * [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
