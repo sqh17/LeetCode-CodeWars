@@ -15,6 +15,7 @@
 * [toWeirdCase](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/toWeirdCase.md)
 * [格式化名字](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/formateName.md)
 * [sum_pairs](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/sumPairs.md)
+* [Vector_Class](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/VectorClass.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
