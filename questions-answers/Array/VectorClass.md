@@ -1,4 +1,4 @@
-## sum-Pairs.
+## VectorClass.
     Create a Vector object that supports addition, subtraction, dot products, and norms. So, for example:
 #### 示例1
     var a = new Vector([1, 2, 3]);
