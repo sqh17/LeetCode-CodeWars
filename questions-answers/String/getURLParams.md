@@ -37,7 +37,7 @@ function getURLParams (url, skey) {
   }
 }
 ```
-### 答案3
+### 答案2
 ```javascript
 function getUrlParam(sUrl,sKey){
     var result = {};
