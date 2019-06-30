@@ -34,3 +34,4 @@
 ## 数学(math)
 * [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
 * [计数质数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/countPrimes.md) 
+* [斐波那契数列](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/fibonacci.md) 
