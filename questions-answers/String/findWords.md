@@ -1,4 +1,4 @@
-## shortestWord
+## findWords
     给定一个单词列表，只返回可以使用在键盘同一行的字母打印出来的单词
 #### 示例
     输入: ["Hello", "Alaska", "Dad", "Peace"]
