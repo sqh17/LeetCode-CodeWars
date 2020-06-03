@@ -9,7 +9,7 @@
 #### 说明
     * 输出结果中每个元素出现的次数，应与元素在两个数组中出现的次数一致。
     * 我们可以不考虑输出结果的顺序。
-### 答案  
+### 答案  ????
 ```  javascript
 /**
  * @param {number[]} nums1
@@ -51,5 +51,44 @@ var intersect = function(nums1, nums2) {
         }        
     } 
     return newArr;
+};
+```
+### 答案 2  时间复杂度(O(n^2))
+```  javascript
+/**
+ * @param {number[]} arr1
+ * @param {number[]} arr2
+ * @return {number[]}
+ */
+var intersect = function(arr1, arr2) {
+    let arr  = []
+    for(var i = 0;i<arr1.length;i++){
+        for(var j = 0;j<arr2.length;j++){
+            if(arr1[i] == arr2[j]){
+                arr.push(arr1[i])
+            }
+        }
+    }
+    return [...new Set(arr)]
+};
+```
+### 答案 3  时间复杂度(O(n))
+```  javascript
+/**
+ * @param {number[]} nums1
+ * @param {number[]} nums2
+ * @return {number[]}
+ */
+var intersection = function(nums1, nums2) {
+    let map = new Map(),arr = [];
+    nums1.forEach(item=>{
+        map.set(item,true)
+    })
+    nums2.forEach(item=>{
+        if(map.has(item)){
+            arr.push(item)
+        }
+    })
+    return [...new Set(arr)]
 };
 ```
