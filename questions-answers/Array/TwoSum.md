@@ -5,7 +5,7 @@
 
     因为 nums[0] + nums[1] = 2 + 7 = 9
     所以返回 [0, 1]  
-### 答案  
+### 答案 1 
 ```  javascript
 /**
  * @param {number[]} nums
@@ -23,5 +23,24 @@ var twoSum = function(nums, target) {
         }
     }
     return arr
+};
+```
+### 答案 2 
+```  javascript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    let map = new Map();
+    for(var i = 0;i<nums.length;i++){
+        let k = target - nums[i];
+        if(map.has(k)){
+            return [map.get(k),i]
+        }
+        map.set(nums[i],i)
+    }
+    return []
 };
 ```
