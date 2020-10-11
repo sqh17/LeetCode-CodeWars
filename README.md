@@ -18,6 +18,7 @@
 * [Vector_Class](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/VectorClass.md)
 * [去重](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/unique.md)
 * [打家劫舍](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/rob.md)
+* [盛更多水的容器](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Container-With-Most-Water.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
@@ -34,6 +35,8 @@
 * [翻转字符串里的单词](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/reverseWords.md)
 * [键盘行](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/findWords.md)
 * [使括号有效的最少添加](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/minAddToMakeValid.md)
+## 二叉树
+* [二叉树的前序遍历](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Binary-Tree-Preorder-Traversal.md) 
 ## 数据结构(Data Structure)
 ## 数学(math)
 * [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
