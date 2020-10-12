@@ -7,15 +7,28 @@
     从第三个开始，该数是前两个数的和
 ### 答案1
 ```  javascript
-fibonacci(n){
-    if(n==1 | n== 2){
-        return 1
-    }else{
-        return fibonacci(n - 1) + fibonacci(n - 2) 
-    }
+function fibonacci(n){
+  if(n==1 | n== 2){
+    return 1
+  }else{
+    return fibonacci(n - 1) + fibonacci(n - 2) 
+  }
 }
 ```
 ### 答案2
+```  javascript
+let cache = {};
+function fibonacci(n){
+  if(n==1 | n== 2){
+    return 1
+  }
+  if(cache[n]) return cache[n];
+
+  let res = fibonacci(n - 1) + fibonacci(n - 2) ;
+  cache[n] = res;
+}
+```
+### 答案3
 ```  javascript
 function fibonacci(n){
   if(n == 1 || n == 2 ){
