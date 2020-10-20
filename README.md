@@ -37,7 +37,8 @@
 * [键盘行](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/findWords.md)
 * [使括号有效的最少添加](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/minAddToMakeValid.md)
 ## 二叉树
-* [二叉树的前序遍历](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Binary-Tree-Preorder-Traversal.md) 
+* [二叉树的前序遍历](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Binary-Tree-Preorder-Traversal.md)
+* [二叉树的最大深度](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Maximum-Depth-of-Binary-Tree.md)  
 ## 数据结构(Data Structure)
 ## 数学(math)
 * [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
