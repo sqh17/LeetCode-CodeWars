@@ -42,6 +42,7 @@
 * [二叉树的最大深度](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Maximum-Depth-of-Binary-Tree.md)  
 ## 数据结构(Data Structure)
 * [从尾到头打印链表](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/reverse-table.md)  
+* [合并两个有序链表](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/Merge-Two-Sorted-Lists.md)  
 ## 数学(math)
 * [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
 * [计数质数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/countPrimes.md) 
