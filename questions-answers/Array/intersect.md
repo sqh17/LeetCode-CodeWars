@@ -92,3 +92,22 @@ var intersection = function(nums1, nums2) {
     return [...new Set(arr)]
 };
 ```
+### 答案 4 
+```  javascript
+/**
+ * @param {number[]} nums1
+ * @param {number[]} nums2
+ * @return {number[]}
+ */
+var intersection = function(nums1, nums2) {
+    let newNums1 = [...new Set(nums1)];
+    let newNums2 = [...new Set(nums2)];
+    let res = [];
+    newNums1.forEach(item=>{
+        if(newNums2.includes(item)){
+            res.push(item)
+        }
+    })
+    return res
+};
+```
