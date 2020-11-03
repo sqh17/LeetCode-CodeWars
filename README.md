@@ -2,7 +2,6 @@
 根据LeetCode官网上和CodeWars算法题用JavaScript方式写出自己的答案总结
 
 ## 数组(Array)   
-
 * [两数之和](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/TwoSum.md) 
 * [排序数组中的重复项](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/RemoveDuplicatesArray.md) 
 * [存在重复元素](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/ContainsDuplicate.md)
@@ -22,6 +21,7 @@
 * [括号生成](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Generate-Parentheses.md)
 * [有多少小于当前数字的数字](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.md)
 * [独一无二的出现次数](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Unique-Number-of-Occurrences.md)
+* [有效的山脉数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Valid-Mountain-Array.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
