@@ -22,6 +22,7 @@
 * [有多少小于当前数字的数字](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.md)
 * [独一无二的出现次数](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Unique-Number-of-Occurrences.md)
 * [有效的山脉数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/ValidMountain-Array.md)
+* [最接近原点的 K 个点](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/K-Closest-Points-to-Origin.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
