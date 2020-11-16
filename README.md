@@ -24,6 +24,7 @@
 * [有效的山脉数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/ValidMountain-Array.md)
 * [最接近原点的 K 个点](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/K-Closest-Points-to-Origin.md)
 * [按奇偶排序数组 II](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Sort-Array-By-Parity-II.md)
+* [根据身高重建队列](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Queue-Reconstruction-by-Height.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
