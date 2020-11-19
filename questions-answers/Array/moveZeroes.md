@@ -28,3 +28,24 @@ var moveZeroes = function(nums) {
     return nums
 };
 ```
+### 思路2
+while 跑一遍，执行到等于 0 的时候，拔掉该 0，最后推 0，从同个地方再找；如果不是 0，继续找下一个。
+### 答案2
+```  javascript
+/**
+ * @param {number[]} nums
+ * @return {void} Do not return anything, modify nums in-place instead.
+ */
+var moveZeroes = function(nums) {
+    let count = 0
+    let idx = 0
+    while(count < nums.length) {
+        if(nums[idx] === 0) {
+            nums.splice(idx, 1)
+            nums.push(0)
+        }
+        else idx += 1
+        count += 1
+    }
+};
+```
