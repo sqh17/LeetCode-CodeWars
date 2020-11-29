@@ -50,6 +50,8 @@
 ## 二叉树
 * [二叉树的前序遍历](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Binary-Tree-Preorder-Traversal.md)
 * [二叉树的最大深度](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Maximum-Depth-of-Binary-Tree.md)  
+* [完全二叉树的节点个数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Count-Complete-Tree-Nodes.md) 
+
 ## 数据结构(Data Structure)
 * [从尾到头打印链表](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/reverse-table.md)  
 * [合并两个有序链表](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/Merge-Two-Sorted-Lists.md)
