@@ -82,7 +82,7 @@ var lengthOfLongestSubstring = function(s) {
     for(let i = 0, j = 0;j<s.length;j++){
         
         if(map.has(s[j])){
-            i = Math.max(map.get(s[j]) + 1,i)
+            i = Math.max(map.get(s[j]) + 1,i) // 不能返回去重来，所以从最大的开始
         }
         max = Math.max(max, j - i +1);
         map.set(s[j],j)
