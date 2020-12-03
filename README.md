@@ -45,6 +45,7 @@
 * [使括号有效的最少添加](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/minAddToMakeValid.md)
 * [替换空格](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/replace-space.md)
 * [整数转罗马数字](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/Integer-to-Roman.md)
+* [罗马数字转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/Roman-to-Integer.md)
 * [两数相加](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/Add-Two-Numbers.md)
 * [实现 strStr()](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/Implement-strStr.md)
 * [无重复字符的最长子串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Longest-Substring-Without-Repeating-Characters.md)
