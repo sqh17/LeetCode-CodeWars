@@ -51,3 +51,37 @@ var searchRange = function(nums, target) {
     return [nums.indexOf(target),nums.lastIndexOf(target)]
 };
 ```
+#### 思路3 
+    1. 二分查找
+    2. 如果 lower 为 true，则查找第一个大于等于 target 的下标，否则查找第一个大于 target 的下标。
+    3. 因为target 可能不存在数组中，因此我们需要重新校验我们得到的两个下标 leftIdx 和 rightIdx，看是否符合条件，如果符合条件就返回 [leftIdx,rightIdx]，不符合就返回 [-1,-1]
+#### 答案3
+```  javascript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+let binarySearch = function(nums,target,lower){
+    let left = 0, right = nums.length - 1, ans = nums.length;
+    while(left<=right){
+        const mid = Math.floor((left + right) / 2);
+        if(nums[mid] > target || (nums[mid] >= target && lower)){
+            right = mid - 1;
+            ans = mid;
+        }else{
+            left = mid + 1;
+        }
+    }
+    return ans
+}
+var searchRange = function(nums, target) {
+    let res = [-1,-1];
+    let leftIndex = binarySearch(nums,target,true);
+    let rightIndex = binarySearch(nums,target,false) - 1;
+    if(leftIndex <= rightIndex && nums[leftIndex] == target && nums[rightIndex] == target && rightIndex < nums.length){
+        res = [leftIndex,rightIndex]
+    };
+    return res;
+};
+```
