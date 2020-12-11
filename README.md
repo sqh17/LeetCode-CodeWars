@@ -29,6 +29,7 @@
 * [三角形的最大周长](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Largest-Perimeter-Triangle.md)
 * [杨辉三角](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Pascal's-Triangle.md)
 * [在排序数组中查找元素的第一个和最后一个位置](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
+* [移除元素](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Remove-Element.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
