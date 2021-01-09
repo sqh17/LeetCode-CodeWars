@@ -30,6 +30,8 @@
 * [杨辉三角](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Pascal's-Triangle.md)
 * [在排序数组中查找元素的第一个和最后一个位置](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Find-First-and-Last-Position-of-Element-in-Sorted-Array.md)
 * [移除元素](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Remove-Element.md)
+* [合并两个有序数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Merge-Sorted-Array.md)
+* [长度最小的子数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Minimum-Size-Subarray-Sum.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
