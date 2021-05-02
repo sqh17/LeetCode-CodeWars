@@ -32,6 +32,7 @@
 * [移除元素](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Remove-Element.md)
 * [合并两个有序数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Merge-Sorted-Array.md)
 * [长度最小的子数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Minimum-Size-Subarray-Sum.md)
+* [加一](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/onePlus.md)
 ## 字符串(String)
 * [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
@@ -60,6 +61,7 @@
 * [二叉树的最大深度](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Maximum-Depth-of-Binary-Tree.md)  
 * [完全二叉树的节点个数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Count-Complete-Tree-Nodes.md) 
 * [翻转二叉树](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Invert-Binary-Tree.md) 
+* [是否对称二叉树](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Symmetric-Tree.md) 
 
 ## 数据结构(Data Structure)
 * [从尾到头打印链表](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/reverse-table.md)  
