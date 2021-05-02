@@ -54,6 +54,7 @@
 * [两数相加](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/Add-Two-Numbers.md)
 * [实现 strStr()](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/Implement-strStr.md)
 * [无重复字符的最长子串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Longest-Substring-Without-Repeating-Characters.md)
+* [平方数之和](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Sum-of-Square-Numbers.md)
 ## 二叉树
 * [二叉树的前序遍历](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Binary-Tree-Preorder-Traversal.md)
 * [二叉树的最大深度](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Maximum-Depth-of-Binary-Tree.md)  
