@@ -1,9 +1,11 @@
 # LeetCode／CodeWars
+
 根据LeetCode官网上和CodeWars算法题用JavaScript方式写出自己的答案总结
 
-## 数组(Array)   
-* [两数之和](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/TwoSum.md) 
-* [排序数组中的重复项](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/RemoveDuplicatesArray.md) 
+## 数组(Array)
+
+* [两数之和](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/TwoSum.md)
+* [排序数组中的重复项](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/RemoveDuplicatesArray.md)
 * [存在重复元素](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/ContainsDuplicate.md)
 * [翻转数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/RotateArray.md)
 * [只出现一次的数字](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/singleNumber.md)
@@ -33,8 +35,11 @@
 * [合并两个有序数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Merge-Sorted-Array.md)
 * [长度最小的子数组](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/Minimum-Size-Subarray-Sum.md)
 * [加一](https://github.com/sqh17/LeetCode-/blob/master/questions-answers/Array/onePlus.md)
+* [最长递增子序列]('./questions-answers/Array/lengthOfLIS.md')
+
 ## 字符串(String)
-* [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md) 
+
+* [反转字符串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseString.md)
 * [反转整数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/ReverseInteger.md)
 * [简单回文数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/PalindromeNumber.md)
 * [去掉字符串中的元音字母](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/DisemvowelTrolls.md)
@@ -56,19 +61,24 @@
 * [实现 strStr()](https://github.com/sqh17/LeetCode/blob/master/questions-answers/String/Implement-strStr.md)
 * [无重复字符的最长子串](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Longest-Substring-Without-Repeating-Characters.md)
 * [平方数之和](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Sum-of-Square-Numbers.md)
+
 ## 二叉树
+
 * [二叉树的前序遍历](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Binary-Tree-Preorder-Traversal.md)
 * [二叉树的最大深度](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Maximum-Depth-of-Binary-Tree.md)  
-* [完全二叉树的节点个数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Count-Complete-Tree-Nodes.md) 
-* [翻转二叉树](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Invert-Binary-Tree.md) 
-* [是否对称二叉树](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Symmetric-Tree.md) 
+* [完全二叉树的节点个数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Count-Complete-Tree-Nodes.md)
+* [翻转二叉树](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Invert-Binary-Tree.md)
+* [是否对称二叉树](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Tree/Symmetric-Tree.md)
 
 ## 数据结构(Data Structure)
+
 * [从尾到头打印链表](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/reverse-table.md)  
 * [合并两个有序链表](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/Merge-Two-Sorted-Lists.md)
-* [用两个栈实现队列](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/TwoStacks-To-queue.md)    
+* [用两个栈实现队列](https://github.com/sqh17/LeetCode/blob/master/questions-answers/Data/TwoStacks-To-queue.md)
+
 ## 数学(math)
-* [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md) 
-* [计数质数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/countPrimes.md) 
-* [斐波那契数列](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/fibonacci.md) 
-* [第 N 个泰波那契数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/N-th-Tribonacci-Number.md) 
+
+* [Fizz Buzz](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/FizzBuzz.md)
+* [计数质数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/countPrimes.md)
+* [斐波那契数列](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/fibonacci.md)
+* [第 N 个泰波那契数](https://github.com/sqh17/LeetCode/blob/master/questions-answers/math/N-th-Tribonacci-Number.md)
